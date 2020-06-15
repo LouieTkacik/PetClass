@@ -1,0 +1,6 @@
+c:\users\a201user\documents\visual studio 2017\Projects\petClassConsole\petClassConsole\obj\Debug\petClassConsole.csprojResolveAssemblyReference.cache
+c:\users\a201user\documents\visual studio 2017\Projects\petClassConsole\petClassConsole\bin\Debug\petClassConsole.exe.config
+c:\users\a201user\documents\visual studio 2017\Projects\petClassConsole\petClassConsole\bin\Debug\petClassConsole.exe
+c:\users\a201user\documents\visual studio 2017\Projects\petClassConsole\petClassConsole\bin\Debug\petClassConsole.pdb
+c:\users\a201user\documents\visual studio 2017\Projects\petClassConsole\petClassConsole\obj\Debug\petClassConsole.exe
+c:\users\a201user\documents\visual studio 2017\Projects\petClassConsole\petClassConsole\obj\Debug\petClassConsole.pdb
